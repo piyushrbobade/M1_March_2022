@@ -7,32 +7,32 @@ int RockPaperScissor(char you, char comp)
         return 0;
     }
     
-    if(you=='s' && comp=='g')
+    if(you=='r' && comp=='s')
     {
         return -1;
     }
     
-    else if(you=='g' && comp=='s')
+    else if(you=='s' && comp=='r')
     {
         return 1;
     }
     
-    if(you=='s' && comp=='w')
+    if(you=='r' && comp=='p')
     {
         return 1;
     }
     
-    else if(you=='w' && comp=='s')
+    else if(you=='p' && comp=='r')
     {
         return -1;
     }
     
-    if(you=='g' && comp=='w')
+    if(you=='s' && comp=='p')
     {
         return -1;
     }
     
-    else if(you=='w' && comp=='g')
+    else if(you=='p' && comp=='s')
     {
         return 1;
     }
