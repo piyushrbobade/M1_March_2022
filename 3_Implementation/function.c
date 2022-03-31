@@ -1,4 +1,4 @@
-int StonePaperScissor(char you, char comp)
+int RockPaperScissor(char you, char comp)
 
 {
   
