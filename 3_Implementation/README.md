@@ -2,7 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-int StonePaperScissor(char you, char comp)
+int RockPaperScissor(char you, char comp)
 
 {
   
@@ -65,9 +65,9 @@ int main()
         comp='g';
     }
     
-    printf("**STONE PAPER SCISSOR**\n");
+    printf("**ROCK PAPER SCISSOR**\n");
     
-    printf("\nEnter   1. 'S' for Stone :");
+    printf("\nEnter   1. 'S' for Rock :");
     printf("\nEnter   2. 'P' for Paper :\n");
     printf("Enter   3. 'G' for Scissor :\n");
     
@@ -76,7 +76,7 @@ int main()
     printf("\n");
     scanf("%c", &you);
     
-    int result = StonePaperScissor(you, comp);
+    int result = RockPaperScissor(you, comp);
     
     if(result ==0)
     {
