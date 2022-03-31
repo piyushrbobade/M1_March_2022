@@ -7,22 +7,22 @@ int main()
 
     if(number<33)
     {
-        comp = 's';
+        comp = 'r';
     }
     
     else if(number>33 && number<66)
     {
-        comp='w';
+        comp='p';
     }
     
     else
     {
-        comp='g';
+        comp='s';
     }
     
-    printf("**STONE PAPER SCISSOR**\n");
+    printf("**ROCK PAPER SCISSOR**\n");
     
-    printf("\nEnter   1. 'S' for Stone :");
+    printf("\nEnter   1. 'S' for Rock :");
     printf("\nEnter   2. 'P' for Paper :\n");
     printf("Enter   3. 'Si' for Scissor :\n");
     
