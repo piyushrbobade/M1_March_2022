@@ -5,4 +5,4 @@ Naming Conventions "M1_ProjectGoals"
 https://api.codiga.io/project/32409/score/svg
 
 * static code analysis-
-[!quality](https://api.codiga.io/project/32409/status/svg)
+![Quality](https://api.codiga.io/project/32409/status/svg)
