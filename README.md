@@ -11,3 +11,9 @@ Build	Code Quality	Git Inspector	code quality score	code grade
 * [![Codacy Badge](https://app.codacy.com/project/badge/Grade/77005bfa50244f4090b3297ad8e0da7d)](https://www.codacy.com/gh/piyushrbobade/M1_March_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=piyushrbobade/M1_March_2022&amp;utm_campaign=Badge_Grade)
 * Codiga - Static Analysis
 * ![Quality](https://api.codiga.io/project/32409/score/svg)
+
+# Folder Structure
+Folder	Description
+1_Requirements	Documents detailing requirements and research
+2_Architecture	Documents specifying design details
+3_Implementation	All code and documentation
