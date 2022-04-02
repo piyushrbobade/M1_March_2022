@@ -2,7 +2,7 @@
 Naming Conventions "M1_ProjectGoals"
 * Badges
 * codiga static analysis-
-* https://api.codiga.io/project/32409/score/svg
+https://api.codiga.io/project/32409/score/svg
 
 * static code analysis-
-* https://api.codiga.io/project/32409/status/svg
+[!quality](https://api.codiga.io/project/32409/status/svg)
