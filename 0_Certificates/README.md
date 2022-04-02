@@ -1,4 +1,4 @@
 # Cerificates
-*Sololearn
-*NDG Linux
-*Simplilearn
+*  Sololearn
+*  NDG Linux
+*  Simplilearn
