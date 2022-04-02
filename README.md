@@ -14,6 +14,6 @@ Build	Code Quality	Git Inspector	code quality score	code grade
 
 # Folder Structure
 Folder	Description
-1_Requirements	Documents detailing requirements and research
-2_Architecture	Documents specifying design details
-3_Implementation	All code and documentation
+* 1_Requirements	Documents detailing requirements and research
+* 2_Architecture	Documents specifying design details
+* 3_Implementation	All code and documentation
